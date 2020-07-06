@@ -18,7 +18,6 @@ public class DoubleLinkedListDemo {
         doubleLinkedList.updateDoubleNode(doubleNode4);
         doubleLinkedList.delDoubleNode(doubleNode2);
         doubleLinkedList.showLinkedList();
-
     }
 }
 
